@@ -2,7 +2,7 @@
 
 ## Neste projeto de estudo foi utilizado:
 
-Função condicional = if  e else
+Função condicional = if  e else  
 Variáveis do tipo = float  
 Função de saída = printf("");  
 Função de entrada = scanf("");  
