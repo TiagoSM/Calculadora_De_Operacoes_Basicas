@@ -9,7 +9,7 @@
 - Programa que permite fazer cáculos de Soma, Subtração, Multiplicação, Divisão, Resto, Exponenciação, Raiz Quadrada;
 
 ## :bookmark_tabs: Como acessar o programa:
-- Suba para o topo da página clique em "Code" -> "Download em Zip" -> Descompacte -> Dê duplo clique em "Basic Calculator.exe" para abrir o programa. :tada:
+- Suba para o topo da página clique em "Code" -> "Download Zip" -> Descompacte -> Dê duplo clique em "Basic Calculator.exe" para abrir o programa. :tada:
 
 ## :book: Mais detalhes:
 - Bibliotecas de linguagem em português, operações matemáticas, entrada e saída de dados, alocação de memória = <locale.h>, <math.h>, <stdio.h>, <stdlib.h>
